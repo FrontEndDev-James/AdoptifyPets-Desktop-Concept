@@ -3,7 +3,7 @@
 Each frame will be a component drafted through Figma
   - Navbar (New users)
   - Header / Hero
-  - ...
+  - Adopt-a-Pet
   - Pricing
   - Contact Us
   - Footer
