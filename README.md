@@ -4,3 +4,4 @@
 ## Phase 2 - Concept
 
 ## Phase 3 - Convert into Code
+The CSS will be constructed using bootstrap
