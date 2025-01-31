@@ -3,7 +3,6 @@
 Each frame will be a component drafted through Figma
   - Navbar (New users)
   - Header / Hero
-  - Adopt-a-Pet
   - Pricing
       - Free Plan
       - Pro Plan ($9.99)
