@@ -5,6 +5,8 @@ Each frame will be a component drafted through Figma
   - Header / Hero
   - Adopt-a-Pet
   - Pricing
+      - Free Plan
+      - Pro Plan ($9.99)
   - Contact Us
   - Footer
     
